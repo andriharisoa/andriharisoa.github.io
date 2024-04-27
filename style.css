@@ -96,9 +96,10 @@ header ul li a {
 
 .box-img img {
   width: 100%;
-  max-width: 400px;
   height: auto;
   border-radius: 30px;
+  width: 400px;
+  height: 250px;
 }
 
 h3 {
@@ -149,6 +150,10 @@ h3 {
   .box-img {
     justify-content: center;
     margin-bottom: 50px;
+  }
+  .box-img img {
+    width: 300px;
+    height: 150px;
   }
   .content .box a {
     display: block;
