@@ -7,6 +7,7 @@ function couleur(color) {
   sec.style.background = color
 }
 
-function skills(anything) {
-  document.querySelector("#skills")
+function skills() {
+  const content = document.querySelector(".content")
+  content.style.display = "none"
 }
