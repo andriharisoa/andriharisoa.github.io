@@ -148,6 +148,7 @@ h3 {
   }
   .box-img {
     justify-content: center;
+    margin-bottom: 50px;
   }
   .content .box a {
     display: block;
