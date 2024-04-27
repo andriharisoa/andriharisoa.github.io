@@ -149,10 +149,10 @@ h3 {
     justify-content: center;
     margin-bottom: 50px;
   }
-  /* .box-img img {
-    width: 300px;
-    height: 150px;
-  } */
+  .box-img img {
+    width: 100px;
+    height: 100px;
+  }
   .content .box a {
     display: block;
     width: 250px;
