@@ -124,6 +124,10 @@ h3 {
   cursor: pointer;
   transition: transform 0.5s ease-in-out;
 }
+.cont-imgs p {
+  text-align: center;
+  font-size: 12px;
+}
 
 .cont-imgs li:hover {
   transform: translateY(-10px);
