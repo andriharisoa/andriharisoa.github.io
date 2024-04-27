@@ -150,8 +150,8 @@ h3 {
     margin-bottom: 50px;
   }
   .box-img img {
-    width: 100px;
-    height: 100px;
+    max-width: 400px;
+    height: auto;
   }
   .content .box a {
     display: block;
