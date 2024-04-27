@@ -173,4 +173,12 @@ h3 {
     text-align: center;
     margin: 1rem auto;
   }
+  h3 {
+    font-weight: 400;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 120px;
+    font-style: italic;
+  }
 }
