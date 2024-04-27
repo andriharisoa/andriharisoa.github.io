@@ -174,3 +174,18 @@ h3 {
     margin: 1rem auto;
   }
 }
+
+.skills {
+  display: none;
+  text-align: center;
+  text-justify: center;
+  width: 100%;
+}
+
+.skills h2 {
+  color: rgb(108, 108, 108);
+  font-size: calc(18px + 1.8vw + 2px);
+  line-height: 1.2em;
+  text-transform: uppercase;
+  font-weight: 900;
+}
