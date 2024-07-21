@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hi, I'm NIAINA A.",
+    title: "Salut, Je suis NIAINA A.",
     animated: {
         first: "Ethical Hacker",
         second: "SysAdmin",
@@ -17,8 +17,8 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "Who am I?",
-    aboutme: "Passionate about cybersecurity and technology, I am a systems and network administrator with expertise in Linux and DevOps. I am dedicated to protecting digital infrastructures and detecting vulnerabilities. Currently, I am developing my skills in artificial intelligence and computer vision to push the boundaries of cybersecurity.",
+    title: "Qui suis-je ?",
+    aboutme: "Passionné par la cybersécurité et les technologies, je suis administrateur systèmes et réseaux, spécialisé en Linux et DevOps. Mon engagement se concentre sur la protection des infrastructures numériques et la détection des vulnérabilités. Actuellement, j'approfondis mes compétences en intelligence artificielle et en vision par ordinateur afin de repousser les frontières de la cybersécurité.",
 };
 const worktimeline = [{
         jobtitle: "SysAdmin",
