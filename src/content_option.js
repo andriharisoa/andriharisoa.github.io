@@ -13,7 +13,7 @@ const introdata = {
         fourth: "Python Programmer",
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    // your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+    your_img_url: "https://i.ibb.co/bXLp1cc/fdfdf.jpg",
 };
 
 const dataabout = {
