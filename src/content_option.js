@@ -1,0 +1,159 @@
+const logotext = "{Initials Here}";
+const meta = {
+    title: "{Your name}",
+    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+};
+
+const introdata = {
+    title: "Hi, I'm {NIAINA} A.",
+    animated: {
+        first: "Ethical Hacker",
+        second: "SysAdmin",
+        third: "DevOps",
+        fourth: "Python Programmer",
+    },
+    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
+    // your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+};
+
+const dataabout = {
+    title: "Who am I?",
+    aboutme: "Passionate about cybersecurity and technology, I am a systems and network administrator with expertise in Linux and DevOps. I am dedicated to protecting digital infrastructures and detecting vulnerabilities. Currently, I am developing my skills in artificial intelligence and computer vision to push the boundaries of cybersecurity.",
+};
+const worktimeline = [{
+        jobtitle: "SysAdmin",
+        where: "AKATA GOAVANA",
+        date: "2023-Now",
+    },
+    {
+        jobtitle: "DevOps",
+        where: "AKATA GOAVANA",
+        date: "2023-Now",
+    },
+    {
+        jobtitle: "System and Network Technician",
+        where: "Independant",
+        date: "2019-2022",
+    },
+];
+
+const skills = [{
+        name: "Python",
+    },
+    
+    {
+        name: "Powershell",
+    },   
+    {
+        name: "Bash",
+    },
+    {
+        name: "Terraform",
+    },
+
+    {
+        name: "Ansible",
+    },
+
+    {
+        name: "Prometheus",
+    },
+
+    {
+        name: "Docker Kubernetes",
+    },
+
+    {
+        name: "Proxmox",
+    },
+
+    {
+        name: "Grafana",
+    },
+
+    {
+        name: "Gitlab-CI",
+    },
+
+    {
+        name: "Github Actions",
+    },
+
+    {
+        name: "Web-Exploitation",
+    },
+
+    {
+        name: "AWS",
+    },
+
+    {
+        name: "Network Exploitation",
+    },
+    {
+        name: "Problems solving",
+    },
+];
+
+const dataportfolio = [{
+        img: "https://picsum.photos/400/?grayscale",
+        description: "I am involved in deploying a Security Operations Center (SOC) for AKATA GOAVANA, which integrates SIEM, IDS/IPS, and SOAR solutions to enhance continuous monitoring, threat detection, and incident response.",
+        link: "#",
+    },
+
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "I led the migration to Proxmox virtualization solutions, streamlining resource management and improving scalability by consolidating physical servers into a flexible virtual environment.",
+        link: "#",
+    },
+
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "I developed a CI/CD pipeline to automate the build, testing, and deployment processes, enhancing development efficiency and ensuring consistent and reliable software delivery.",
+        link: "#",
+    },
+
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "I ensure the smooth operation of DNS, DHCP, routing, and file server services to maintain reliable connectivity and efficient network management.",
+        link: "#",
+    },
+
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "I handle the production deployment of applications, ensuring their correct configuration and successful integration into the live environment..",
+        link: "#",
+    },
+
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "I have implemented automation for database backups, ensuring regular and reliable data protection with minimal manual intervention.",
+        link: "#",
+    },
+];
+
+const contactConfig = {
+    YOUR_EMAIL: "andriharisoaniaina@gmail.com",
+    description: "Looking forward to hearing from you!",
+    // An emailjs.com account 
+    // tutorial https://www.emailjs.com/docs/examples/reactjs/
+    YOUR_SERVICE_ID: "SERVICE_ID",
+    YOUR_TEMPLATE_ID: "TEMPLATE_ID",
+    YOUR_USER_ID: "AYfOv9KlIUMboG2CF",
+};
+
+const socialprofils = {
+    github: "https://github.com/",
+    linkedin: "https://linkedin.com/",
+};
+export {
+    meta,
+    dataabout,
+    dataportfolio,
+    worktimeline,
+    skills,
+    introdata,
+    contactConfig,
+    socialprofils,
+    logotext,
+};
