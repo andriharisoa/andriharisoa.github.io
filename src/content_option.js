@@ -10,9 +10,9 @@ const introdata = {
         first: "Ethical Hacker",
         second: "SysAdmin",
         third: "DevOps",
-        fourth: "Python Programmer",
+        fourth: "Programmeur Python",
     },
-    description: "'Life begins at the end of your comfort zone - Neale Donald Walsch'",
+    description: "\"Life begins at the end of your comfort zone - Neale Donald Walsch\"",
     your_img_url: "https://i.ibb.co/bXLp1cc/fdfdf.jpg",
 };
 
@@ -23,16 +23,16 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "SysAdmin",
         where: "AKATA GOAVANA",
-        date: "2023-Now",
+        date: "2023-Maintenant",
     },
     {
         jobtitle: "DevOps",
         where: "AKATA GOAVANA",
-        date: "2023-Now",
+        date: "2023-Maintenant",
     },
     {
-        jobtitle: "System and Network Technician",
-        where: "Independent",
+        jobtitle: "Technicien réseaux et systèmes",
+        where: "Idenpendant",
         date: "2019-2022",
     },
 ];
@@ -80,7 +80,7 @@ const skills = [{
     },
 
     {
-        name: "Web-Exploitation",
+        name: "Exploitation Web",
     },
 
     {
@@ -88,10 +88,10 @@ const skills = [{
     },
 
     {
-        name: "Network Exploitation",
+        name: "Exploitation réseaux",
     },
     {
-        name: "Problems solving",
+        name: "Résolution des problèmes",
     },
 ];
 
@@ -134,7 +134,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "andriharisoaniaina@gmail.com",
-    description: "Looking forward to hearing from you!",
+    description: "J'ai hâte de votre retour !",
     // An emailjs.com account 
     // tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "SERVICE_ID",
