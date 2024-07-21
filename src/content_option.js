@@ -143,8 +143,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
+    github: "https://github.com/IndianaPirate",
+    linkedin: "https://www.linkedin.com/in/niaina-andriharisoa-400991243/",
 };
 export {
     meta,
