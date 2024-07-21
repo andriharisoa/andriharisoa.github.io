@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hi, I'm {NIAINA} A.",
+    title: "Hi, I'm NIAINA A.",
     animated: {
         first: "Ethical Hacker",
         second: "SysAdmin",
@@ -32,7 +32,7 @@ const worktimeline = [{
     },
     {
         jobtitle: "System and Network Technician",
-        where: "Independant",
+        where: "Independent",
         date: "2019-2022",
     },
 ];
