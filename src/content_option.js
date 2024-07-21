@@ -12,7 +12,7 @@ const introdata = {
         third: "DevOps",
         fourth: "Python Programmer",
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
+    description: "'Life begins at the end of your comfort zone - Neale Donald Walsch'",
     your_img_url: "https://i.ibb.co/bXLp1cc/fdfdf.jpg",
 };
 
