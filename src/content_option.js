@@ -31,7 +31,7 @@ const worktimeline = [{
         date: "2023-Maintenant",
     },
     {
-        jobtitle: "Technicien réseaux et systèmes",
+        jobtitle: "Admin réseaux et systèmes",
         where: "Idenpendant",
         date: "2019-2022",
     },
